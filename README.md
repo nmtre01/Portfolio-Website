@@ -49,7 +49,7 @@ Hello and welcome to my public profile! I am a versatile software engineer with 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Noah's Coding Journey</h3></summary>
    I started my career in software engineering with Linux programming, drawn to its open-source ethos and the challenge of developing software in a command-line environment. I quickly became proficient in the language and started contributing to open-source projects in my spare time. As my skills grew, I began to explore other operating systems, including Unix. I found that the skills I had learned in Linux were easily transferable to other environments, and I became more confident in my abilities as a software engineer.
 
 I soon realized that if I wanted to continue growing as an engineer, I needed to expand my knowledge beyond a single language or operating system. I set myself the goal of becoming proficient in multiple languages, including C#, C++, Python, Java, JavaScript, and HTML. I read books, took courses, and worked on personal projects to improve my skills.
