@@ -1,4 +1,4 @@
-# 🏄‍♂️ Noah Trejo
+# 🐐 Noah Trejo
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 🧰 Languages and Tools
+### 🔪 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -39,7 +39,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
+### 🎮 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![AI's Most Insane Month EVER!!](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI%27s+Most+Insane+Month+EVER%21%21&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI's Most Insane Month EVER!!")](https://www.youtube.com/watch?v=4_frwLFlOt8)
@@ -54,7 +54,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
+### 📈 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
