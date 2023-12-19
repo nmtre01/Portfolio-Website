@@ -1,6 +1,6 @@
 # 🐐 Noah Trejo
 
-**`Digital Engineer (Developer/Fitness/Creator)`**
+**`Software Engineer (Developer/Fitness/Creator)`**
 
 Hello and welcome to my public profile! I am a versatile software engineer with experience in developing applications and solutions using C#, C++, Java, and HTML. With a passion for creating efficient, scalable, and maintainable software, I have been involved in various software development projects throughout my career, ranging from web applications to complex desktop software.
 
