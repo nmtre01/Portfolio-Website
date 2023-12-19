@@ -4,16 +4,6 @@
 
 Hello and welcome to my public profile! I am a versatile software engineer with experience in developing applications and solutions using C#, C++, Java, and HTML. With a passion for creating efficient, scalable, and maintainable software, I have been involved in various software development projects throughout my career, ranging from web applications to complex desktop software.
 
-   <p align="left">
-      <a href="website">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="website"/></a> 
-      <a href="website">
-         <img alt="youtube views" title="YouTube views" src="website"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="website"/></a>
-      <a href="website">
-         <img alt="total stars" title="Total stars on GitHub" src="website"/></a>
-   </p>
 
 ---
 
@@ -37,14 +27,6 @@ Hello and welcome to my public profile! I am a versatile software engineer with 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br /> -->
 
-#
-
-### 🎮 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](website)
 
 #
 
